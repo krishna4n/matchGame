@@ -1,0 +1,15 @@
+.card-container {
+  font-family: Roboto;
+  color: #ffffff;
+  text-align: center;
+}
+.trophy {
+  height: 60vh;
+}
+.try-again-button {
+  padding: 20px;
+  background-color: #cf60c8;
+
+  color: #ffffff;
+  border-radius: 10px;
+}
